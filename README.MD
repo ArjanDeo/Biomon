@@ -1,4 +1,8 @@
 # Biomon
+
+![License](https://img.shields.io/github/license/ArjanDeo/Biomon?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/ArjanDeo/Biomon?style=for-the-badge)
+
 ![Biomon](Biomon/Assets/biomon-preview.png)
 
 Biomon is a lightweight macOS application for monitoring and displaying system usage information.
