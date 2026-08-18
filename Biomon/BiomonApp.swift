@@ -10,8 +10,9 @@ import SwiftUI
 @main
 struct BiomonApp: App {
     var body: some Scene {
-        WindowGroup {
+        MenuBarExtra("Biomon", systemImage: "heart.fill") {
             ContentView()
         }
+        .menuBarExtraStyle(.window)
     }
 }
