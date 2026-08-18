@@ -1,2 +1,2 @@
 # Biomon
-![Biomon](Biomon/assets/biomon-preview.png)
+![Biomon](Biomon/Assets/biomon-preview.png)
