@@ -1,7 +1,7 @@
 # Biomon
 
-![License](https://img.shields.io/github/license/ArjanDeo/Biomon?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/ArjanDeo/Biomon?style=for-the-badge)
+![License](https://img.shields.io/github/license/ArjanDeo/Biomon)
+![Release](https://img.shields.io/github/v/release/ArjanDeo/Biomon)
 
 ![Biomon](Biomon/Assets/biomon-preview.png)
 
